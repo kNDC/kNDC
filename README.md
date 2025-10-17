@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome!
+
+I'm excited and enthusiastic about coding and algorithms.
+
+My main focus is development in C++, with extensive forays in C# and MS VBA.
+
+Reach me here: n.d.chernyshev+github@mail.ru
 
 <!--
 **kNDC/kNDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
