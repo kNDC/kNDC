@@ -1,7 +1,6 @@
 ## Welcome!
 
 I am an enthusiastic developer keenly interested in coding and algorithms.
-
 My main focus is development in C++, with extensive forays in C# and MS VBA in the past.
 
 Reach me here: n.d.chernyshev+github@mail.ru
