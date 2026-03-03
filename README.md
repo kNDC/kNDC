@@ -2,7 +2,7 @@
 
 I am an enthusiastic developer keenly interested in coding and algorithms.
 
-My main focus is development in C++ and working on numerical methods in MATLAB, with extensive forays in C# and MS VBA in the past.
+My main focus is development in C++ and working on numerical methods in MATLAB, as well as using R in statistics and data analysis, with extensive forays in C# and MS VBA in the past.
 
 Reach me here: [n.d.chernyshev@mail.ru](n.d.chernyshev+github@mail.ru)
 
